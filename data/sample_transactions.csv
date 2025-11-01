@@ -1,0 +1,5 @@
+TxnId,CustomerId,Amount,TxnDate,Channel,Region
+T-001,C-001,120.5,2025-07-01,Web,West
+T-002,C-002,65.0,2025-07-02,Store,West
+T-003,C-003,410.0,2025-07-03,Web,East
+T-004,C-001,20.0,2025-07-05,Mobile,West
